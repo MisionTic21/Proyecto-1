@@ -12,6 +12,7 @@ public class Trabajador {
     private int diaNacimiento;
     private int mesNacimiento;
     private int yearNacimiento;
+    private String apodo;
 
     //Inserte acá el método constructor
     
